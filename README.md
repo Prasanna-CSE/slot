@@ -32,6 +32,7 @@ Execute the program using runserver command.
 <title> Sample Super  Web</title>
 </head>
 <img src="logo.png" height="200" width="1200">
+<h1>PRASANNA L (212221040130)</h1>
 <table border ="2" cellpadding="2" width="400" heigth="400"
 <caption> <h2>Camu Schedule </h2></caption>
 <tr bgcolor="red">
